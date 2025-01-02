@@ -1,0 +1,9 @@
+var stringmap = {
+	"ucip-title" : "$$$/UCIP_TITLE=Use case identification",
+	"ucip-heading" : "$$$/UCIP_HEADING=Learn to animate in just about 10 mins. Try a hands-on tutorial.",
+	"ucip-heading-return" : "$$$/UCIP_HEADING_RETURN=Welcome back! Try another tutorial.",
+	"ucip-heading-completed" : "$$$/UCIP_HEADING_COMPLETED=Welcome back! Explore more tutorials in the learn section.",
+	"skip" : "$$$/UCIP_BTN_SKIP=Skip",
+	"ucip-donotshow" : "$$$/UCIP_BTN_DO_NOT_SHOW=Do not show again",
+	"ucip-comingsoon" : "$$$/UCIP_COMING_SOON=(Coming soon)"
+}
